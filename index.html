@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <p id="message"></p>
+
+    <script>
+        const isLoggedIn = localStorage.getItem("loginStatus"); // "true"
+
+        if (isLoggedIn != "true") {
+            // alert("You need to login!");
+            const email = prompt("Enter your email address: ");
+            const password = prompt("Enter your password: ");
+
+            if (email == "admin@gmail.com" && password == "123") {
+                localStorage.setItem("loginStatus", "true");
+                document.getElementById("message").innerText = "Welcome Admin!";
+            }else{
+                document.getElementById("message").innerText = "Access Denied!";
+            }
+        } else {
+            document.getElementById("message").innerText = "Welcome Admin!";
+        }
+    </script>
+</body>
+
+</html>

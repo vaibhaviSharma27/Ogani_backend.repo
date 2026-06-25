@@ -1,0 +1,401 @@
+[
+    {
+        "title": "Turkey Meat 1 Kg",
+        "price": 990.00,
+        "description": "fresho! products is our in-house brand of fresh meat, poultry and seafood. We take utmost care in selecting the best suppliers to provide you with high-quality and succulent products. Every product is stored in our cold storage right until your doorstep ensuring freshness and utmost hygiene. Additionally, every product is packed using food-grade plastic which provides a nourishing and wholesome environment.",
+        "category": "Fresh Meat",
+        "images": ["TurkeyMeat.png"]
+    },
+
+    {
+        "title": "Mutton Mince, 450 g",
+        "price": 539,
+        "description": "fresho!! Mutton Mince 450 g is a versatile ingredient commonly used in a range of dishes, such as kebabs, meatballs, burgers, and curries, where it absorbs spices and flavours well. Mutton Mince is appreciated for its rich taste and tender texture, making it ideal for quick cooking methods. It serves as a convenient option for creating hearty, flavourful meals that can be easily prepared and enjoyed.",
+        "category": "Fresh Meat",
+        "images": ["Mutton1.png", "Mutton2.png","Mutton3.png"]
+    },
+
+    {
+        "title": "Mutton Liver, 900 g (25-32 pcs)",
+        "price": 688,
+        "description": "fresho!! Mutton Liver 450 g 0 (13-16 pcs) is a high-quality product sourced from the best farms in India. The liver is carefully processed and proportioned to ensure freshness and tenderness. It can be prepared in various ways, such as frying, grilling, or slow-cooking, to absorb spices and seasonings effectively. Mutton Liver is a versatile ingredient that pairs well with bold flavours and is commonly found in traditional dishes like liver curry or liver fry. It can be served with rice, bread, or as part of a larger meal, making it a favourite in many regional cuisines..",
+        "category": "Fresh Meat",
+        "images": ["MuttonLiver.png"]
+    },
+
+    {
+        "title": "Delicious Chicken - Precut, Skinless, 500 g",
+        "price": 230,
+        "description": "High on calories and low on fat, this Pre-cut chicken without skin is full of nutrition and makes any chicken recipe delightful.",
+        "category": "Fresh Meat",
+        "images": ["Chicken.png"]
+    },
+
+    {
+        "title": "Malabar Prawns - Fresh & Juicy, Marinated, Ready To Cook, 450 g (22-28 pcs 16-20 g each)",
+        "price": 812,
+        "description": "Kerala's Signature dish Malabar prawns, a specialty of the South Indian coast it finds its exclusive presence in Malabar Cuisine. Prawns marinated in slow-roasted Indian spices and this recipe has a burst of flavour with the tanginess and good amount of spice, which gives a wholesome meal. Serves 2-3 people and takes 10-15 minutes to prepare. The prawns are 30/40 size, 15-20 grams each, and come with 22-28 pieces.",
+        "category": "Fresh Meat",
+        "images": ["Prawns.png"]
+    },
+
+    {
+        "title": "Raw Kadaknath - Whole, With Skin, Tender & Juicy, 1 pc (1.3 kg - 1.5 kg)",
+        "price": 985,
+        "description": "Kadaknath is also famously called kali masi, it is an Indian breed of chicken that is known to be extremely healthy. It is a meat of matured chicken, its taste and texture are quite subtle and it's tender in nature. The Kadaknath chicken gravy has a long-lasting flavour making the chicken lip-smacking. Order this fresh meat from Big Basket online and have it delivered to your doorstep.",
+        "category": "Fresh Meat",
+        "images": ["Kadaknath1.png","Kadaknath2.png"]
+    },
+
+    {
+        "title": "Total Fresh Chilled Chicken - Lollipop, 400 g",
+        "price": 225,
+        "description": "Total Chicken is reared at our own farms and delicately processed at our state-of-the-art facilities with imported machinery, meeting high biosecurity and hygiene standards. From farm to fork, Total Fresh Chilled Chicken Lollipop ticks all the boxes in terms of safety, quality and health. Birds are fed with nutritious feed from our own feed mills. Antibiotic residue free.",
+        "category": "Fresh Meat",
+        "images": ["ChickenLollipop1.png","ChickenLollipop2.png","ChickenLollipop3.png"]
+    },
+
+    {
+        "title": "Chicken Wings, 450 g (8-10 pcs)",
+        "price": 149,
+        "description": "Chicken Wings are a beloved cut, celebrated for their rich flavour and tender meat, making them ideal for a variety of cooking methods. Often enjoyed as a snack or appetiser, wings can be baked, fried, or grilled and are perfect for soaking up marinades and sauces. Whether tossed in spicy buffalo sauce, coated in barbecue glaze, or served with a side of dipping sauce, chicken wings are a crowd-pleaser for gatherings and events. Their versatility and ease of preparation make them a popular choice for any occasion.",
+        "category": "Fresh Meat",
+        "images":["ChickenWings.png"]
+    },
+    
+    {
+        "title": "Chicken Gizzard, 1 kg (38-45 pcs)",
+        "price": 342,
+        "description": "Chicken Gizzard is a unique and flavourful organ meat that adds a distinct taste to various dishes. Known for its firm texture, gizzards are often used in soups, stews, and stir-fries, where they absorb flavours beautifully. They can also be marinated and grilled, pan-fried, or sautéed for a delicious snack or appetiser. Rich in protein, chicken gizzards are a versatile ingredient that can be seasoned with a variety of spices and herbs, making them an exciting addition to your culinary repertoire.",
+        "category": "Fresh Meat",
+        "images": ["ChickenGizard.png"]
+    },
+
+    {
+        "title": "Lamb Mutton Boneless, 250 g (7-9 pcs)",
+        "price": 449,
+        "description": "Mutton Lamb Boneless is a premium cut of lamb, offering tender, lean meat without the bone, perfect for a wide range of dishes. Its versatility makes it ideal for curries, stir-fries, kebabs, and stews, where the meat absorbs flavours well and remains juicy. Boneless lamb is easy to cook, allowing for quicker preparation and even cooking. Whether used in traditional recipes or modern cuisine, Mutton Lamb Boneless provides a rich, hearty base for various meals, offering convenience and flavour.",
+        "category": "Fresh Meat",
+        "images": ["Lamb.png"]
+    },
+    
+    {
+        "title": "Ladies' Fingers, 1 kg",
+        "price": 20,
+        "description": "In the rich tapestry of Indian cuisine, Ladies' Fingers, known locally as 'bhindi' or 'okra', holds a prominent place. This versatile vegetable, with its elongated shape and tender texture, is celebrated for its culinary adaptability. Often used in curries, stir-fries, and even as a crispy side dish, bhindi adds a unique mucilaginous quality that thickens gravies and enhances flavours. Its popularity spans across regional variations, from spicy masalas in the North to coconut-infused preparations in the South.",
+        "category": "Vegetables",
+        "images": ["Ladyfinger1.png","Ladyfinger2.png"]
+    },
+    
+    {
+        "title": "Carrot - Orange, 1 kg",
+        "price": 67.64,
+        "description": "A popular sweet-tasting root vegetable, carrots are narrow and cone-shaped. They have thick, fleshy, deeply coloured roots which grow underground and feathery green leaves that emerge above the ground. While these greens are fresh-tasting and slightly bitter, the carrot roots are crunchy textured with a sweet and minty aromatic taste. Fresho! brings you the flavour and richness of the finest crispy and juicy carrots that are locally grown and the best of the region.In the vibrant tapestry of Indian cuisine, orange carrots play a versatile role, prized for their sweetness and vibrant hue. Whether grated into salads, blended into creamy soups, or incorporated into decadent desserts like gajar ka halwa, these carrots lend their distinct flavour and colour. In traditional Indian households, they are a staple vegetable used in everyday cooking, enhancing dishes with their natural sweetness. Carrots are also pickled or added to savoury snacks like samosas for added texture and flavour. Their availability year-round and adaptability in both sweet and savoury preparations make them a beloved ingredient across India's diverse culinary landscape.",
+        "category": "Vegetables",
+        "images": ["Carrot1.png","Carrot2.png"]
+    },
+
+    {
+        "title": "Local Tomato, 1 kg",
+        "price": 44.84,
+        "description": "Tomato is a supplement thick superfood that offers advantage to a scope of real systems.It has numerous little seeds. It is extremely scrumptious. It is likewise useful for wellbeing. Most tomatoes are red. They are a good source of Vitamin A, C, K, Iron, Folate and Potassium. They are used in salads, curries, soups and other dishes. We source best quality tomatoes and deliver it fresh at your door step",
+        "category": "Vegetables",
+        "images": ["Tomato1.png","Tomato2.png"]
+    },
+
+    {
+        "title": "Cauliflower, 1 pc (approx. 400 to 600 g)",
+        "price": 37.24,
+        "description": "In the rich tapestry of Indian cuisine, cauliflower holds a cherished place as a versatile and widely used vegetable. Known as 'Gobi' in Hindi, it features prominently in various regional dishes. From the iconic Punjabi favourite 'Aloo Gobi' (potato and cauliflower curry) to the spicy Maharashtrian 'Gobi Masala,' it adapts seamlessly to different cooking styles and flavours. Cauliflower is also enjoyed battered and fried as 'Gobi Pakoras' or as a delicious addition to biryanis and pulavs. Its ability to absorb spices and its unique texture make it a beloved ingredient, offering a hearty and satisfying element to Indian meals.",
+        "category": "Vegetables",
+        "images": ["Cauliflower1.png","Cauliflower2.png"]
+    },
+    
+    {
+        "title": "Onion - Organically Grown, 1 kg",
+        "price": 36.5,
+        "description": "Onion - Organically Grown are carefully nurtured to ensure they retain their natural flavour, nutritional goodness, and freshness. Ideal for enhancing a wide range of dishes including salads, soups, stews, and curries, these onions offer a robust taste and crisp texture.",
+        "category": "Vegetables",
+        "images": ["Onion1.png","Onion2.png"]
+    },
+
+    {
+        "title": "Brinjal - Varikatri, 500 g",
+        "price": 23.33,
+        "description": "Brinjal, known as 'Varikatri' in some regions of India, is a distinct variety appreciated for its small size and vibrant purple colour. This type of Brinjal is commonly used in Indian cooking, particularly in dishes from South India and Maharashtra. It has a slightly bitter taste and a tender texture when cooked, making it suitable for various culinary applications. Varikatri Brinjal is often used in curries, stir-fries, and stuffed preparations, where its flavour enhances the overall dish. Its versatility in regional cuisines highlights its importance as a staple vegetable, beloved for its taste and contribution to traditional Indian meals.",
+        "category": "Vegetables",
+        "images": ["Brinjal1.png","Brinjal2.png"]
+    },
+
+    {
+        "title": "Cabbage - Organically Grown, 1 pc (approx. 400-700g)",
+        "price": 30,
+        "description": "Cabbage is a robust and nutritious vegetable celebrated for its versatility in cooking. With a crisp texture and a mild, slightly sweet flavour, cabbage adds depth to various dishes. Cabbage can be enjoyed in salads or stews, or cooked in stir-fries, soups, where it softens to a tender consistency and absorbs flavours well.",
+        "category": "Vegetables",
+        "images": ["Cabbage1.png","Cabbage2.png"]
+    },
+
+      {
+        "title": "Bitter Gourd, 500 g",
+        "price": 22.04,
+        "description": "Bitter Gourd, also known as bitter melon or 'karela' in Hindi, is a distinctive vegetable in Indian cuisine appreciated for its sharp, bitter taste. Often used in regional dishes across India, it is valued not just for its flavour but also for its versatility in cooking. Bitter Gourd is commonly stir-fried, stuffed, or added to curries, providing a unique contrast to other ingredients. In some Indian recipes, its bitterness is balanced with spices, tamarind, or jaggery. Bitter Gourd is also pickled or used in soups, showcasing its adaptability in various culinary traditions and its place as a staple in Indian kitchens.",
+        "category": "Vegetables",
+        "images": ["Bittergourd1.png","Bittergourd2.png"]
+    },
+
+    {
+        "title": "English Cucumber, 250 g",
+        "price": 13,
+        "description": "English Cucumbers are a refreshing and versatile addition to your kitchen. Grown naturally, these long, slender cucumbers offer a crisp texture and mild, refreshing flavour. Perfect for salads, sandwiches, or as a healthy snack, they bring a delightful crunch to any dish. Packed with hydration and low in calories, English cucumbers are ideal for those seeking a nutritious lifestyle. Their thin skin is tender enough to eat, and they have fewer seeds than regular cucumbers, making them exceptionally easy to prepare. Enjoy the natural goodness and vibrant green colour that English cucumbers bring to your meals.",
+        "category": "Vegetables",
+        "images": ["Cucumber1.png","Cucumber2.png"]
+    },
+
+    {
+        "title": " Potato, 1 kg",
+        "price": 10,
+        "description": " Potatoes offer a taste of pure, earthy goodness. Each spud is hand-picked for its perfect texture and flavour, ideal for crispy roasties or creamy mash. Packed with nutrients and versatility, they transform every meal into a wholesome delight. Enjoy the freshness and quality that only fresho! can provide.",
+        "category": "Vegetables",
+        "images": ["Potato.png"]
+    },
+
+    {
+        "title": "Watermelon - Small, 1 pc (approx 1.8 - 2.5 kg)",
+        "price": 10,
+        "description": "Small watermelons are a cherished summer treat, known for their compact size and sweet juiciness. Grown abundantly in states like Maharashtra and Karnataka, these miniatures offer a refreshing respite from the scorching heat. Their crisp, red flesh is a favourite at picnics and festivals, sliced into wedges or scooped into refreshing juices and smoothies. Small watermelons are valued for their convenience and portability, often found piled high at roadside stalls and bustling markets. Packed with hydrating properties and essential nutrients like vitamins A and C, they are a guilt-free indulgence that epitomises India's love for seasonal, fresh produce",
+        "category": "Fruits",
+        "images": ["Watermelon1.png","Watermelon2.png"]
+    },
+
+    {
+        "title": "Banana - Robusta, Small, 500 g (Approx. 5 - 6 pcs)",
+        "price": 22,
+        "description": "Robusta bananas are slender and have a bright yellow peel. Robusta bananas have a very dense, creamy texture, and once ripe, their flavour is rich and sweet.",
+        "category": "Fruits",
+        "images": ["Banana1.png","Banana2.png"]
+    },
+
+    {
+        "title": "Pomegranate - Premium, 2 pcs (220 - 250 g per pc)",
+        "price": 169,
+        "description": "Elevate your taste with our Premium Pomegranate, a burst of vibrant, tangy sweetness in every bite. Hand-picked for its rich flavour and juiciness, this fruit adds a touch of luxury to any dish. Perfect for a refreshing snack or a sumptuous ingredient in your culinary creations.",
+        "category": "Fruits",
+        "images": ["Pomegranate1.png","Pomegranate2.png"]
+    },
+
+    {
+        "title": "Banganapalli Mango, 1 kg",
+        "price": 79.2,
+        "description": "The Banganapalli mango holds a distinguished place among mango aficionados for its unique taste and texture. Grown primarily in Andhra Pradesh and Telangana, this mango variety is renowned for its large size, oblong shape, and golden-yellow skin with a smooth texture. Its flesh is tender, fibreless, and boasts a sweet, tangy flavour that is both refreshing and satisfying. Banganapalli mangoes are a favourite for making mango desserts, juices, and preserves, highlighting their versatility in Indian cuisine. Rich in vitamins A and C, they offer nutritional benefits along with a delightful mango experience, embodying India's tropical fruit abundance.",
+        "category": "Fruits",
+        "images": ["Mango1.png","Mango2.png"]
+    },
+
+    {
+        "title": "Guava, 500 g",
+        "price": 50.16,
+        "description": "Guava, a tropical fruit bursting with flavour, is known for its sweet and slightly tangy taste. Organically grown, packed with essential nutrients, making it a healthy addition to your diet. Enjoy it fresh, in smoothies, or as a vibrant ingredient in your favourite recipes. Each bite of this delicious fruit brings a touch of the tropics to your table.",
+        "category": "Fruits",
+        "images": ["Guava1.png","Guava2.png"]
+    },
+
+    {
+        "title": "Apple - Royal Gala, 2 pcs (Approx. 260 g - 300 g)",
+        "price": 90,
+        "description": "Savour the crisp, juicy delight of fresho! Royal Gala apples. Bursting with a sweet, tangy flavour and a vibrant red hue, these apples are perfect for snacking or adding a touch of freshness to your recipes. Enjoy naturepure, delicious, and irresistibly crunchy.",
+        "category": "Fruits",
+        "images": ["apple1.png","apple2.png"]
+    },
+
+    {
+        "title": "Pear - Green, Imported, 2 pcs (Approx. 280 g - 320 g)",
+        "price": 72.86,
+        "description": "Savour the crisp succulence of imported Green Pears, a delight from afar. Grown with meticulous care, each pear embodies freshness and natural sweetness. Their vibrant green hue promises a juicy, refreshing bite, perfect for enjoying on its own or paired with cheeses and salads. Whether as a wholesome snack or an elegant addition to culinary creations, these pears bring a taste of orchard perfection to your table.",
+        "category": "Fruits",
+        "images": ["Pear1.png","Pear2.png"]
+    },
+
+     {
+        "title": "Kiwi - Green, 3 pcs (Approx. 220 g - 260 g)",
+        "price": 202,
+        "description": "Indulge in the vibrant essence of Green Kiwi, imported to bring you a taste of freshness and health. Bursting with juicy sweetness and packed with vitamins, each kiwi promises a zesty addition to your daily diet. Whether sliced into salads, blended into smoothies, or simply enjoyed on its own, this fruit delivers a tropical sensation that invigorates the palate with every bite.",
+        "category": "Fruits",
+        "images": ["Kiwi1.png","Kiwi2.png"]
+    },
+
+    {
+        "title": "Litchi, 1 Pack (Approx 500 g)",
+        "price": 149,
+        "description": "litchi is obtained from the best growers in the country, and the fruits are fresh, fleshy and refreshingly sweet. They are packed and stored in hygienic conditions at the right temperature to make sure that the taste and benefits are preserved well.",
+        "category": "Fruits",
+        "images": ["Litchi1.png","Litchi2.png"]
+    },
+
+    {
+        "title": "Pineapple, 1 pc (approx 800g - 1kg)",
+        "price": 63.84,
+        "description": "Shaped like a pinecone, the fruit is loosely fibrous and juicy with white to yellowish flesh. The edible centre part is firm, leathery, and sweet. In India, pineapple is a beloved tropical fruit, enjoyed for its sweet and tangy flavour. Found abundantly in the southern and northeastern regions, it is a staple in fruit salads, juices, and traditional desserts. Pineapple is often used in chutneys and pickles, adding a zesty twist to meals. During summer, refreshing pineapple sherbets and smoothies are popular choices to beat the heat. It also plays a role in cultural festivities, often featured in offerings and decorations. With its vibrant taste and versatile uses, pineapple holds a special place in the culinary and cultural fabric of India.",
+        "category": "Fruits",
+        "images": ["Pineapple1.png","Pineapple2.png"]
+    },
+
+    {
+        "title": "Heritage Daily Health Toned Milk, 500 ml Pouch",
+        "price": 32,
+        "description": "Fresh & pure milk is procured from our farmers and processed, pasteurized, homogenized and packed at state-of-the-art processing plants with utmost care to ensure goodness. Homogenized Tone Milk nurtures a healthy body, and in turn, a healthy mind. Milk is available in poly packs of various sizes.",
+        "category": "Dairy",
+        "images": ["Milk1.png","Milk2.png"]
+    },
+
+    {
+        "title": "Milky Mist Paneer, 500 g Pouch",
+        "price": 160.5,
+        "description": "Milky Mist offers freshly made paneer in a hygienic method of packing with multilayer thermoforming packaging. Paneer is a good source of protein, especially for the vegetarian diet. It has a sufficient amount of calcium. Milky Mist Paneer is a great value addition to multi-cuisine recipes. It also helps in building a strong immune system and aids in good digestion",
+        "category": "Dairy",
+        "images": ["Paneer.png"]
+    },
+
+    {
+        "title": "Amul Pasteurised Butter, 500 g Carton",
+        "price": 230,
+        "description": "Amul is synonymous with butter in India. Several generations of Indian consumers have grown up with the taste of Amul Butter for six decades. The utterly butterly delicious taste of Amul Butter is a must on the breakfast table of almost every Indian household. The utterly cute Amul Butter Girl has been a part of Indian consumers since 1950. Amul Butter topical is recognised as one of the longest-running advertisement campaigns in the world.Creamy Amul Pasteurised Butter, a hallmark of perfection in every spread. Crafted from the finest milk, its rich, smooth texture melts effortlessly on warm toast or enriches culinary creations with a luxurious touch. Elevate every meal with the unmistakable taste of Amul, cherished for its unmatched quality and wholesome goodness.",
+        "category": "Dairy",
+        "images": ["Butter1.png","Butter2.png"]
+    },
+
+    {
+        "title": "Amul Masti Dahi, 1 kg Pouch",
+        "price": 77,
+        "description": "Amul Masti Dahi is prepared from the freshest, purest pasteurised milk and is free from added sugar. It is high in taste and nutrition. It does not contain any preservatives. One can make any healthy dish with curd. The curd not only makes the dish delicious but also healthy.",
+        "category": "Dairy",
+        "images": ["Dahi1.png","Dahi2.png"]
+    },
+
+    {
+        "title": "Amul Pure Milk Cheese Cubes, 200 g (8 pcs)",
+        "price": 135,
+        "description": "The cubic shapes of Amul Processed Cheese Chiplets make it perfect for parties. They are best served with pineapple dices, and to add some zing, you can sprinkle some chaat masala over the cubes. This nutritious product from the house of Amul is rich in milk proteins and calcium. Although these cheese cubes add something extra to your party platter, you can also grate the cheese and add it to your sauce or soup to make it creamier and thicker.",
+        "category": "Dairy",
+        "images": ["Cheese.png"]
+    },
+
+    {
+        "title": "Amul Fresh Cream, 250 ml",
+        "price": 60,
+        "description": "Amul Fresh Cream has been processed to give a smooth consistency and makes mouth-watering preparations. Amul fresh cream is sterilised at high temperature and packed aseptically to give safe, rich cream which stays fresh until opened. Made of fresh & pure milk cream. Available in two convenient packs. No preservatives added.",
+        "category": "Dairy",
+        "images": ["Cream.png"]
+    },
+
+    {
+        "title": "Amul Sweetened Condensed Milk Mithai Mate, 400 g Tin",
+        "price": 130,
+        "description": "As the name suggests, Amul Mithai Mate is indeed the best friend for your desserts. This sweet thickener is now made with skimmed milk so that you have fewer calories in your sweet dish. There are probably thousands of recipes which have Amul Mithai Mate as its key ingredient. Whether you are making kheer, thandai, coconut ladoos, or white fudge, you simply cannot do without this smooth, creamy sweetened condensed milk.",
+        "category": "Dairy",
+        "images": ["CondensedMilk1.png","CondensedMilk2.png"]
+    },
+
+    {
+        "title": "Amul Ice Cream - Vanilla Magic, 1 L Tub",
+        "price": 195,
+        "description": "Amul Ice Cream - Vanilla Magic offers a delightful blend of creamy vanilla goodness. Known for its smooth texture and rich flavour, each scoop delivers a classic taste that satisfies dessert cravings. Whether enjoyed on its own or as a complement to cakes and pies, Vanilla Magic promises a refreshing treat for all occasions. Made from the finest ingredients, Amul ensures quality and freshness in every bite, making it a favourite among ice cream enthusiasts. Indulge in the creamy goodness of Amul Ice Cream - Vanilla Magic, where each spoonful brings a taste of pure delight and satisfaction.",
+        "category": "Dairy",
+        "images": ["Icecream.png"]
+    },
+
+    {
+        "title": "Amul Amul Khoa, 200 g Pouch",
+        "price": 90,
+        "description": "Shudh Garhwal Khoya Pindi is made from wholesome milk. It is great product for all your Indian authentic milk sweets like Burfi, Gulab Jamun, Kalakand, Gajar Halwa and many more. It has a shelf life of 6 months when stored at or below -10° c and 10 days when stored at or below 4° c.",
+        "category": "Dairy",
+        "images": ["Khoya.png"]
+    },
+
+    {
+        "title": "Amul Pure Ghee/Tuppa, 1 L Carton",
+        "price": 607.17,
+        "description": "Amul Pure Ghee offers a rich, aromatic essence that brings traditional Indian flavour to every dish. Crafted from the finest butter, its golden hue and smooth texture enhance the taste of your culinary creations, making them truly unforgettable. Perfect for cooking, baking, or simply spreading on your favourite bread.",
+        "category": "Dairy",
+        "images": ["Ghee.png"]
+    },
+
+    {
+        "title": "Malai Chaap Tikka Tandoori",
+        "price": 259,
+        "description": "Soya chaap, served with a delicious mixture of cream and spices. Cooked to perfection in tandoor with onion and capsicum",
+        "category": "Fast Food",
+        "images": ["Malaichaap.png"]
+    },
+
+        {
+        "title": "The OG Veggie Burger",
+        "price": 289,
+        "description": "The Golden Fried Veg Patty Topped with our in house burger sauce, onions, Lettuce and freshly baked bun. We do not add Tomatoes in our burgers.",
+        "category": "Fast Food",
+        "images": ["Burger.png"]
+    },
+
+      {
+        "title": "Chipotle Veg Fingers Burger Wrap",
+        "price": 139,
+        "description": "Lip-smacking veg patty is golden fried till its nice & crunchy and then generously drizzled with chipotle mayo followed by some crunchy onions together wrapped in soft paratha. A riot of flavours is what you should expect.",
+        "category": "Fast Food",
+        "images": ["VegRoll.png"]
+    },
+
+    {
+        "title": "Veg Mexicana Pizza",
+        "price": 399,
+        "description": "Cheese burst Pizza topped with onions, tomatoes, green bell peppers, jalapenos, red paprika, olives, mozzarella cheese, cheddar cheese and our signature marinara sauce made from italian tomatoes",
+        "category": "Fast Food",
+        "images": ["Pizza1.png","Pizza2.png"]
+    },
+
+    {
+        "title": "Kolkata Street Style Chow Mein",
+        "price": 350,
+        "description": "Jujube Signature, Most Popular from streets of kolkata, which will surely take you back to your childhood days enjoying chowmein at mobile food vans.",
+        "category": "Fast Food",
+        "images": ["Chowmein1.png","Chowmein2.png"]
+    },
+
+    {
+        "title": "Samosa",
+        "price": 22,
+        "description": "From premium ingredients to handcrafted perfection, Samosa deliver sheer satisfaction.",
+        "category": "Fast Food",
+        "images": ["Samosa1.png","Samosa2.png"]
+    },
+
+    {
+        "title": "Pao Bhaji",
+        "price": 180,
+        "description": "[2 Pc] A rich, buttery mix of mashed vegetables simmered in a spicy tomato gravy, served with soft, toasted pav buns and a dollop of butter.",
+        "category": "Fast Food",
+        "images": ["PavBhaji.png"]
+    },
+
+    {
+        "title": "French Fries",
+        "price": 240,
+        "description": "Thinly sliced potatoes are deep-fried till they're crisp on all sides and then sprinkled with salt and pepper serves 1-2.",
+        "category": "Fast Food",
+        "images": ["Frenchfries.png"]
+    },
+
+    {
+        "title": "Golgappe",
+        "price": 43,
+        "description": "[5 Pieces] Crispy Puri Filled With Tangy, Spicy Water And Savory Fillings, Creating A Burst Of Flavors In Every Bite.",
+        "category": "Fast Food",
+        "images": ["Golgappe.png"]
+    },
+
+    {
+        "title": "Veg. Manchurian (dry)",
+        "price": 190,
+        "description": "Crispy vegetable balls tossed in spicy and tangy Manchurian sauce, perfect as a starter or snack.",
+        "category": "Fast Food",
+        "images": ["Manchurian.png"]
+    }
+]
