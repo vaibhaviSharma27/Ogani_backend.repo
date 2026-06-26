@@ -13,6 +13,8 @@ import { v2 as cloudinary, } from "cloudinary";
 import streamifier from "streamifier";
 import nodemailer from "nodemailer";
 
+import Razorpay from "razorpay";
+
 
 // Establish db connection
 
@@ -357,6 +359,33 @@ try {
     res.status(500).json({ message: "Something went wrong !!"})
 }
 });
+
+
+// ################################## Payment
+
+
+const rzpay = new Razorpay({
+    key_id: process.env.RAZ_API_KEY,
+    key_secret: process.env.RAZ_KEY_SECRET
+});
+
+app.get("/order", async (req, res)=>{
+    try {
+       const order =  await rzpay.orders.create({
+            currency: "INR",
+            amount: 50*100,
+            receipt: "receipt_"+Math.floor(Math.random()*1000)+"-"+Math.floor(Math.random()*1000)
+        });
+
+        res.status(200).json({message: order});
+    } catch (error) {
+        console.log(error);
+        res.status(500).json({message: "Something went wrong!"});
+    }
+});
+
+
+//end of payment section
 
 app.get("/wishlist", checkAuth, async (req, res) => {
     try {
