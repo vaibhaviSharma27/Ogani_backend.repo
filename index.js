@@ -4,6 +4,7 @@ import cors from "cors";
 import bcrypt from "bcrypt";
 import jwt from "jsonWebToken";
 import "dotenv/config";
+
 import cookieParser from "cookie-parser";
 import multer, { MulterError } from "multer";
 import path from "path";
@@ -369,11 +370,60 @@ const rzpay = new Razorpay({
     key_secret: process.env.RAZ_KEY_SECRET
 });
 
-app.get("/order", async (req, res)=>{
+app.post("/create-orders", checkAuth, async(req, res) => {
+    try{
+        const userId = req.user._id;
+        const cart = await Cart.aggregate([
+            {$match:{
+                userId:userId
+            }},
+            
+            {
+                $lookup:{
+                    from:"products",
+                    localField:"productId",
+                    foreignField:"_id",
+                    as:"product"
+
+                }
+            },
+            {
+                $unwind:"$product"
+            }
+
+        ]);
+
+        let totalAmount = 0;
+
+        cart.forEach(item=>{
+            totalAmount = totalAmount + item.product.price * item.quantity;
+        });
+
+        console.log(totalAmount);
+
+        const order = await rzpay.orders.create({
+
+              amount: totalAmount*100,
+            // amount: totalAmount*100 + 10*100,
+            currency:"INR",
+            receipt:"receipt_"+Math.floor(Math.random()*1000)+"-"+Math.floor(Math.random()*1000)
+        });
+
+        res.status(200).json({orderId:order.id,amount:order.amount,currency:order.currency});
+    }catch(error){
+        console.log(error);
+        res.status(500).json({message:"Something went wrong!!"});
+
+
+    }
+
+});
+
+app.get("/orders",checkAuth, async (req, res)=>{
     try {
        const order =  await rzpay.orders.create({
             currency: "INR",
-            amount: 50*100,
+            amount: (req.body.amount)*100,
             receipt: "receipt_"+Math.floor(Math.random()*1000)+"-"+Math.floor(Math.random()*1000)
         });
 

@@ -13,6 +13,7 @@ import { v2 as cloudinary, } from "cloudinary";
 import streamifier from "streamifier";
 import { resolve } from "dns";
 import nodemailer from "nodemailer";
+import Razorpay from "razorpay";
 
 mongoose.connect("mongodb://127.0.0.1:27017/ogani")
     .then(() => console.log("Connected to the ogani database."))
@@ -240,7 +241,32 @@ app.get("/cart", checkAuth, async (req, res) => {
         console.log(error.message)
         res.status(500).json({ message: "Something went wrong!" });
     }
-})
+});
+// ####################################### START PAYMENT
+
+const rzpay = new Razorpay({
+    key_id: process.env.RAZ_API_KEY,
+    key_secret: process.env.RAZ_KEY_SECRET
+});    // just like setting up transport on nodemailer for sending email
+
+app.get("/orders", async (req,res) => {
+    try {
+        const order = await rzpay.orders.create({
+            currency:"INR",
+            amount:100*100, // amount is generally calculated in paise for indian rupees
+            receipt: "receipt_"+Math.floor(Math.random()*1000)+"-"+Math.floor(Math.random()*1000)
+        });
+
+        res.status(200).json({message : order});
+    } catch (error) {
+        console.log(error);
+        res.status(500).json({message: "Something went wrong!!"})
+    }
+});
+
+//############################################ END PAYMENT
+
+
 
 app.get("/profile", checkAuth, (req, res) => {
     res.status(200).json({ message: req.user });

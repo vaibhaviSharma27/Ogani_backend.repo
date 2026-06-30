@@ -308,3 +308,4 @@ OUTPUT:
 -- if the item exists increase its quantity by one 
 -- otherwise decrease its quantity (when "-" button clicked) and if quantity = 0 delete the cart item  
 
+--- checkAuth=> user._id=> access to the cart => when proceed to checkout => total cost calculated from total items in cart=> items saved in backend for orders => order._id generated accordingly => 
